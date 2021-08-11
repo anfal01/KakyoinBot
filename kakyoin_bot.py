@@ -8,7 +8,7 @@ from random import randint
 #import numpy as np
 from discord.ext import commands
 
-TOKEN = 'Njc1NTEzMDUyMDMyMDA4MjI1.Xj4Ojg.47yuTfTQJEP9SKK3-hXQNAtBFc8'
+TOKEN = '' #token here
 
 fp = 'images/'
 
